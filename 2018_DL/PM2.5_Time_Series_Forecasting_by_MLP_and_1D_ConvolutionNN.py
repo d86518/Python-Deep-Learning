@@ -1,8 +1,3 @@
-########################################################## Collated by Prof. Ching-Shih Tsou 鄒慶士 教授 (Ph.D.) at the IDS and CADS(資訊與決策科學研究所暨資料科學應用研究中心), NTUB(國立臺北商業大學); the CARS(中華R軟體學會); and the DSBA(臺灣資料科學與商業應用協會)
-#######################################################
-### Notes: This code is provided without warranty.
-
-
 # coding: utf-8
 
 # ## PM 2.5 時間序列預測 PM 2.5 Time Series Forecasting
